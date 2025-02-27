@@ -1,0 +1,2142 @@
+
+Testando configuração 1/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7098
+
+Testando configuração 2/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 3/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 4/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7109
+
+Testando configuração 5/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 6/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 7/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6661
+
+Testando configuração 8/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7103
+
+Testando configuração 9/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7109
+
+Testando configuração 10/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6661
+
+Testando configuração 11/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7103
+
+Testando configuração 12/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7092
+
+Testando configuração 13/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 14/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 15/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 16/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 17/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 18/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 19/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7103
+
+Testando configuração 20/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7121
+
+Testando configuração 21/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6954
+
+Testando configuração 22/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7109
+
+Testando configuração 23/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7121
+
+Testando configuração 24/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6954
+
+Testando configuração 25/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 26/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 27/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 28/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 29/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 30/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 31/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6989
+
+Testando configuração 32/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 33/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7029
+
+Testando configuração 34/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7000
+
+Testando configuração 35/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 36/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7029
+
+Testando configuração 37/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 38/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 39/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 40/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 41/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 42/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 43/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7109
+
+Testando configuração 44/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 45/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7052
+
+Testando configuração 46/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7109
+
+Testando configuração 47/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 48/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7052
+
+Testando configuração 49/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 50/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 51/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 52/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 53/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 54/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 55/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7075
+
+Testando configuração 56/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7063
+
+Testando configuração 57/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6885
+
+Testando configuração 58/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7075
+
+Testando configuração 59/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7063
+
+Testando configuração 60/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6874
+
+Testando configuração 61/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 62/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 63/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 64/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 65/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 66/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 67/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 68/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7121
+
+Testando configuração 69/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6874
+
+Testando configuração 70/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 71/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7121
+
+Testando configuração 72/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6874
+
+Testando configuração 73/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 74/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 75/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 76/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 77/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 78/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 79/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7086
+
+Testando configuração 80/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7109
+
+Testando configuração 81/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7023
+
+Testando configuração 82/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7092
+
+Testando configuração 83/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7109
+
+Testando configuração 84/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7023
+
+Testando configuração 85/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 86/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 87/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 88/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 89/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 90/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 91/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7121
+
+Testando configuração 92/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 93/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6908
+
+Testando configuração 94/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7121
+
+Testando configuração 95/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7109
+
+Testando configuração 96/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6902
+
+Testando configuração 97/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 98/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 99/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 100/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 101/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 102/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 103/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 104/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7103
+
+Testando configuração 105/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6885
+
+Testando configuração 106/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 107/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7092
+
+Testando configuração 108/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6810
+
+Testando configuração 109/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 110/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 111/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 112/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 113/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 114/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 115/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7121
+
+Testando configuração 116/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 117/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7046
+
+Testando configuração 118/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7121
+
+Testando configuração 119/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 120/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7046
+
+Testando configuração 121/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 122/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 123/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 124/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 125/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 126/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 127/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7040
+
+Testando configuração 128/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7063
+
+Testando configuração 129/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7017
+
+Testando configuração 130/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7034
+
+Testando configuração 131/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7052
+
+Testando configuração 132/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7017
+
+Testando configuração 133/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 134/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 135/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 136/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 137/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 138/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 139/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7046
+
+Testando configuração 140/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7098
+
+Testando configuração 141/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6931
+
+Testando configuração 142/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7046
+
+Testando configuração 143/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7052
+
+Testando configuração 144/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6931
+
+Testando configuração 145/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 146/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 147/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 148/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 149/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 150/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 151/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7115
+
+Testando configuração 152/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 153/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7040
+
+Testando configuração 154/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7115
+
+Testando configuração 155/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 156/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7040
+
+Testando configuração 157/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 158/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 159/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 160/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 161/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 162/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 163/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 164/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 165/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6960
+
+Testando configuração 166/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 167/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 168/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6960
+
+Testando configuração 169/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 170/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 171/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 172/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 173/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 174/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 175/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80, 80), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 176/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80, 80), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 177/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80, 80), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6908
+
+Testando configuração 178/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80, 80), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 179/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80, 80), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 180/2880: {'momentum': 0.0, 'learning_rate': 0.001, 'hidden_layers': (80, 80, 80), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6908
+
+Testando configuração 181/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 182/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 183/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7029
+
+Testando configuração 184/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 185/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 186/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7023
+
+Testando configuração 187/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7103
+
+Testando configuração 188/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7063
+
+Testando configuração 189/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6822
+
+Testando configuração 190/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7103
+
+Testando configuração 191/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6994
+
+Testando configuração 192/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6828
+
+Testando configuração 193/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 194/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 195/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 196/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 197/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 198/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 199/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7132
+
+Testando configuração 200/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6971
+
+Testando configuração 201/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6943
+
+Testando configuração 202/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7132
+
+Testando configuração 203/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6971
+
+Testando configuração 204/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6943
+
+Testando configuração 205/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 206/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 207/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 208/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 209/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 210/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 211/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 212/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6977
+
+Testando configuração 213/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6943
+
+Testando configuração 214/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 215/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6977
+
+Testando configuração 216/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6943
+
+Testando configuração 217/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 218/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 219/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7034
+
+Testando configuração 220/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 221/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 222/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7006
+
+Testando configuração 223/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7138
+
+Testando configuração 224/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6862
+
+Testando configuração 225/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6908
+
+Testando configuração 226/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7138
+
+Testando configuração 227/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6868
+
+Testando configuração 228/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6908
+
+Testando configuração 229/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 230/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 231/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 232/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 233/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 234/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 235/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7080
+
+Testando configuração 236/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7006
+
+Testando configuração 237/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6989
+
+Testando configuração 238/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7080
+
+Testando configuração 239/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7006
+
+Testando configuração 240/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6989
+
+Testando configuração 241/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 242/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 243/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 244/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 245/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 246/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 247/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7121
+
+Testando configuração 248/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6954
+
+Testando configuração 249/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6902
+
+Testando configuração 250/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7121
+
+Testando configuração 251/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6954
+
+Testando configuração 252/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6902
+
+Testando configuração 253/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 254/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 255/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7034
+
+Testando configuração 256/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 257/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 258/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7034
+
+Testando configuração 259/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7092
+
+Testando configuração 260/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6920
+
+Testando configuração 261/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6879
+
+Testando configuração 262/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7098
+
+Testando configuração 263/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6908
+
+Testando configuração 264/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6879
+
+Testando configuração 265/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 266/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 267/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 268/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 269/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 270/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 271/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7103
+
+Testando configuração 272/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6966
+
+Testando configuração 273/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6943
+
+Testando configuração 274/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7121
+
+Testando configuração 275/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6966
+
+Testando configuração 276/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6943
+
+Testando configuração 277/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 278/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 279/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 280/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 281/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 282/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 283/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7046
+
+Testando configuração 284/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6879
+
+Testando configuração 285/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6943
+
+Testando configuração 286/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7052
+
+Testando configuração 287/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6948
+
+Testando configuração 288/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6943
+
+Testando configuração 289/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 290/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 291/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6994
+
+Testando configuração 292/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 293/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 294/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7006
+
+Testando configuração 295/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 296/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6902
+
+Testando configuração 297/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6851
+
+Testando configuração 298/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 299/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6931
+
+Testando configuração 300/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6851
+
+Testando configuração 301/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 302/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 303/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 304/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 305/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 306/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 307/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7057
+
+Testando configuração 308/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7040
+
+Testando configuração 309/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6971
+
+Testando configuração 310/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7046
+
+Testando configuração 311/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7006
+
+Testando configuração 312/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6971
+
+Testando configuração 313/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 314/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 315/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 316/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 317/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 318/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 319/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7086
+
+Testando configuração 320/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6851
+
+Testando configuração 321/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6862
+
+Testando configuração 322/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7057
+
+Testando configuração 323/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6851
+
+Testando configuração 324/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6862
+
+Testando configuração 325/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 326/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 327/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6989
+
+Testando configuração 328/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 329/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 330/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6994
+
+Testando configuração 331/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 332/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6966
+
+Testando configuração 333/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6925
+
+Testando configuração 334/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 335/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6954
+
+Testando configuração 336/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6925
+
+Testando configuração 337/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 338/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 339/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 340/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 341/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 342/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 343/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 344/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6908
+
+Testando configuração 345/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6914
+
+Testando configuração 346/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 347/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6931
+
+Testando configuração 348/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6914
+
+Testando configuração 349/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 350/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 351/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 352/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 353/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 354/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 355/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80, 80), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 356/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80, 80), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6799
+
+Testando configuração 357/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80, 80), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6787
+
+Testando configuração 358/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80, 80), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 359/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80, 80), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6787
+
+Testando configuração 360/2880: {'momentum': 0.0, 'learning_rate': 0.01, 'hidden_layers': (80, 80, 80), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6787
+
+Testando configuração 361/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 362/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6931
+
+Testando configuração 363/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6856
+
+Testando configuração 364/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 365/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6845
+
+Testando configuração 366/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+
+
+Testando configuração 367/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6828
+
+Testando configuração 368/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6839
+
+Testando configuração 369/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6856
+
+Testando configuração 370/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6713
+
+Testando configuração 371/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6839
+
+Testando configuração 372/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6856
+
+Testando configuração 373/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 374/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 375/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6845
+
+Testando configuração 376/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 377/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 378/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6851
+
+Testando configuração 379/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6770
+
+Testando configuração 380/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6730
+
+Testando configuração 381/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6730
+
+Testando configuração 382/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6770
+
+Testando configuração 383/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6730
+
+Testando configuração 384/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6730
+
+Testando configuração 385/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 386/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 387/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 388/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 389/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 390/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 391/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6391
+
+Testando configuração 392/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6724
+
+Testando configuração 393/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6724
+
+Testando configuração 394/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6391
+
+Testando configuração 395/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6724
+
+Testando configuração 396/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6724
+
+Testando configuração 397/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 398/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6851
+
+Testando configuração 399/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6805
+
+Testando configuração 400/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 401/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6845
+
+Testando configuração 402/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6851
+
+Testando configuração 403/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6908
+
+Testando configuração 404/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6931
+
+Testando configuração 405/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6931
+
+Testando configuração 406/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6908
+
+Testando configuração 407/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6931
+
+Testando configuração 408/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6931
+
+Testando configuração 409/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 410/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 411/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6672
+
+Testando configuração 412/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 413/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 414/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6672
+
+Testando configuração 415/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6489
+
+Testando configuração 416/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6489
+
+Testando configuração 417/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6489
+
+Testando configuração 418/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6489
+
+Testando configuração 419/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6489
+
+Testando configuração 420/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6489
+
+Testando configuração 421/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 422/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 423/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 424/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 425/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 426/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 427/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6707
+
+Testando configuração 428/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6655
+
+Testando configuração 429/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6655
+
+Testando configuração 430/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6707
+
+Testando configuração 431/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6655
+
+Testando configuração 432/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6655
+
+Testando configuração 433/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 434/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6851
+
+Testando configuração 435/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6753
+
+Testando configuração 436/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 437/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6851
+
+Testando configuração 438/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6799
+
+Testando configuração 439/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6782
+
+Testando configuração 440/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6931
+
+Testando configuração 441/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6931
+
+Testando configuração 442/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6816
+
+Testando configuração 443/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6931
+
+Testando configuração 444/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6931
+
+Testando configuração 445/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 446/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 447/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6638
+
+Testando configuração 448/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 449/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 450/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6672
+
+Testando configuração 451/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6684
+
+Testando configuração 452/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6684
+
+Testando configuração 453/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6684
+
+Testando configuração 454/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6684
+
+Testando configuração 455/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6684
+
+Testando configuração 456/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6684
+
+Testando configuração 457/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 458/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 459/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 460/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 461/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 462/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 463/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6690
+
+Testando configuração 464/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6690
+
+Testando configuração 465/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6690
+
+Testando configuração 466/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6690
+
+Testando configuração 467/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6690
+
+Testando configuração 468/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6690
+
+Testando configuração 469/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 470/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6816
+
+Testando configuração 471/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6816
+
+Testando configuração 472/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 473/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6810
+
+Testando configuração 474/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6816
+
+Testando configuração 475/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6759
+
+Testando configuração 476/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6885
+
+Testando configuração 477/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6885
+
+Testando configuração 478/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6914
+
+Testando configuração 479/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6885
+
+Testando configuração 480/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6885
+
+Testando configuração 481/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 482/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 483/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6672
+
+Testando configuração 484/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 485/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 486/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 487/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6534
+
+Testando configuração 488/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6534
+
+Testando configuração 489/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6534
+
+Testando configuração 490/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6534
+
+Testando configuração 491/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6534
+
+Testando configuração 492/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6534
+
+Testando configuração 493/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 494/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 495/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 496/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 497/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 498/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 499/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6534
+
+Testando configuração 500/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6534
+
+Testando configuração 501/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6534
+
+Testando configuração 502/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6534
+
+Testando configuração 503/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6534
+
+Testando configuração 504/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6534
+
+Testando configuração 505/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 506/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6816
+
+Testando configuração 507/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6787
+
+Testando configuração 508/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 509/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6822
+
+Testando configuração 510/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6782
+
+Testando configuração 511/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6805
+
+Testando configuração 512/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6908
+
+Testando configuração 513/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6908
+
+Testando configuração 514/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6839
+
+Testando configuração 515/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6908
+
+Testando configuração 516/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6908
+
+Testando configuração 517/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 518/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 519/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6655
+
+Testando configuração 520/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 521/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 522/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6718
+
+Testando configuração 523/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6678
+
+Testando configuração 524/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6678
+
+Testando configuração 525/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6678
+
+Testando configuração 526/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6678
+
+Testando configuração 527/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6678
+
+Testando configuração 528/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6678
+
+Testando configuração 529/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 530/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 531/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7080
+
+Testando configuração 532/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 533/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 534/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7080
+
+Testando configuração 535/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80, 80), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6569
+
+Testando configuração 536/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80, 80), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6569
+
+Testando configuração 537/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80, 80), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6569
+
+Testando configuração 538/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80, 80), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6569
+
+Testando configuração 539/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80, 80), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6569
+
+Testando configuração 540/2880: {'momentum': 0.0, 'learning_rate': 0.1, 'hidden_layers': (80, 80, 80), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6569
+
+Testando configuração 541/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6983
+
+Testando configuração 542/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6770
+
+Testando configuração 543/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6828
+
+Testando configuração 544/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6914
+
+Testando configuração 545/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6805
+
+Testando configuração 546/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6822
+
+Testando configuração 547/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6713
+
+Testando configuração 548/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6753
+
+Testando configuração 549/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6741
+
+Testando configuração 550/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6690
+
+Testando configuração 551/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6753
+
+Testando configuração 552/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6741
+
+Testando configuração 553/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 554/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 555/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6856
+
+Testando configuração 556/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 557/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 558/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6851
+
+Testando configuração 559/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6971
+
+Testando configuração 560/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6931
+
+Testando configuração 561/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6931
+
+Testando configuração 562/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6931
+
+Testando configuração 563/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6931
+
+Testando configuração 564/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6931
+
+Testando configuração 565/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 566/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 567/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 568/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 569/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 570/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10, 10), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 571/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6764
+
+Testando configuração 572/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6764
+
+Testando configuração 573/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6764
+
+Testando configuração 574/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6764
+
+Testando configuração 575/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6764
+
+Testando configuração 576/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (10, 10, 10), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6764
+
+Testando configuração 577/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6914
+
+Testando configuração 578/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6764
+
+Testando configuração 579/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6799
+
+Testando configuração 580/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6868
+
+Testando configuração 581/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6764
+
+Testando configuração 582/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6799
+
+Testando configuração 583/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6724
+
+Testando configuração 584/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6724
+
+Testando configuração 585/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6724
+
+Testando configuração 586/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6724
+
+Testando configuração 587/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6724
+
+Testando configuração 588/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6724
+
+Testando configuração 589/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7098
+
+Testando configuração 590/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7075
+
+Testando configuração 591/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6770
+
+Testando configuração 592/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 593/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7075
+
+Testando configuração 594/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6776
+
+Testando configuração 595/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6569
+
+Testando configuração 596/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6569
+
+Testando configuração 597/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6569
+
+Testando configuração 598/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6569
+
+Testando configuração 599/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6569
+
+Testando configuração 600/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6569
+
+Testando configuração 601/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 602/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 603/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7080
+
+Testando configuração 604/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 605/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 606/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20, 20), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7075
+
+Testando configuração 607/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6397
+
+Testando configuração 608/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6247
+
+Testando configuração 609/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6247
+
+Testando configuração 610/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6397
+
+Testando configuração 611/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6247
+
+Testando configuração 612/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (20, 20, 20), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6247
+
+Testando configuração 613/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6816
+
+Testando configuração 614/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6667
+
+Testando configuração 615/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6793
+
+Testando configuração 616/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6799
+
+Testando configuração 617/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6707
+
+Testando configuração 618/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6799
+
+Testando configuração 619/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6764
+
+Testando configuração 620/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6805
+
+Testando configuração 621/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6805
+
+Testando configuração 622/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6805
+
+Testando configuração 623/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6805
+
+Testando configuração 624/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6805
+
+Testando configuração 625/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 626/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6897
+
+Testando configuração 627/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6833
+
+Testando configuração 628/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 629/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6977
+
+Testando configuração 630/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6828
+
+Testando configuração 631/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6563
+
+Testando configuração 632/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6563
+
+Testando configuração 633/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6563
+
+Testando configuração 634/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6563
+
+Testando configuração 635/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6563
+
+Testando configuração 636/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6563
+
+Testando configuração 637/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 638/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 639/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6994
+
+Testando configuração 640/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 641/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 642/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40, 40), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6994
+
+Testando configuração 643/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6609
+
+Testando configuração 644/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6615
+
+Testando configuração 645/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6615
+
+Testando configuração 646/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6609
+
+Testando configuração 647/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6615
+
+Testando configuração 648/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (40, 40, 40), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6615
+
+Testando configuração 649/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6741
+
+Testando configuração 650/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6695
+
+Testando configuração 651/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6793
+
+Testando configuração 652/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6730
+
+Testando configuração 653/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 654/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6793
+
+Testando configuração 655/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6816
+
+Testando configuração 656/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6816
+
+Testando configuração 657/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6816
+
+Testando configuração 658/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6816
+
+Testando configuração 659/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6816
+
+Testando configuração 660/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6816
+
+Testando configuração 661/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 662/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6856
+
+Testando configuração 663/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6632
+
+Testando configuração 664/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 665/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6971
+
+Testando configuração 666/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6632
+
+Testando configuração 667/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6517
+
+Testando configuração 668/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6517
+
+Testando configuração 669/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6517
+
+Testando configuração 670/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6517
+
+Testando configuração 671/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6517
+
+Testando configuração 672/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6517
+
+Testando configuração 673/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 674/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 675/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7006
+
+Testando configuração 676/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 677/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 678/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60, 60), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7006
+
+Testando configuração 679/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6695
+
+Testando configuração 680/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6695
+
+Testando configuração 681/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 682/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6695
+
+Testando configuração 683/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6695
+
+Testando configuração 684/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (60, 60, 60), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 685/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6563
+
+Testando configuração 686/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6649
+
+Testando configuração 687/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6787
+
+Testando configuração 688/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6575
+
+Testando configuração 689/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6661
+
+Testando configuração 690/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80,), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6782
+
+Testando configuração 691/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6977
+
+Testando configuração 692/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6977
+
+Testando configuração 693/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6977
+
+Testando configuração 694/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6977
+
+Testando configuração 695/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6977
+
+Testando configuração 696/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80,), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6977
+
+Testando configuração 697/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 698/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6954
+
+Testando configuração 699/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6661
+
+Testando configuração 700/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 701/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6983
+
+Testando configuração 702/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6661
+
+Testando configuração 703/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 704/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 705/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 706/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 707/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 708/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80, 80), 'activation': 'relu', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.6701
+
+Testando configuração 709/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 710/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 711/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 10, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7029
+
+Testando configuração 712/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 0.0001, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 713/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-05, 'max_epochs': 10000}
+  -> Acurácia média: 0.7126
+
+Testando configuração 714/2880: {'momentum': 0.0, 'learning_rate': 0.3, 'hidden_layers': (80, 80, 80), 'activation': 'logistic', 'patience': 15, 'convergence_threshold': 1e-06, 'max_epochs': 10000}
+  -> Acurácia média: 0.7029
