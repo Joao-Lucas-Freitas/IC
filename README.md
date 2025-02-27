@@ -1,1 +1,1 @@
-# Repositório da Disciplina - Inteligência Computacional
+# Repositório da Disciplina Inteligência Computacional
