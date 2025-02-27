@@ -1,1 +1,1 @@
-# IC
+# Repositório da Disciplina - Inteligência Computacional
